@@ -21,7 +21,7 @@ PostgreSQL • MySQL • MongoDB •
 SQLite
 
 ### **Инфраструктура**
-Docker • Kubernetes • AWS • Nginx
+Docker • Kubernetes • Apache • Nginx
 CI/CD • Git • Linux
 
 ---
