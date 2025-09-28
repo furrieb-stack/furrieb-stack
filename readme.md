@@ -13,8 +13,7 @@ React • JavaScript
 HTML5 • CSS3 • Webpack • Vite
 
 ### **Бэкенд**
-Node.js • Python • PHP • C#
-Express • Django • Laravel
+Node.js • Python • PHP • C# • Django • Laravel
 
 ### **Базы данных**
 PostgreSQL • MySQL • MongoDB •
