@@ -1,23 +1,22 @@
 # 👋 Привет, я Furrieb
 
 ## 💻 Обо мне
-**Fullstack разработчик с 5+ летним опытом ебать
-- в основном разрабатываю на PHP и React
+Fullstack-разработчик с 5+ летним опытом. Специализируюсь на создании полноценных веб-приложений с использованием современных технологий. В работе ценю чистый код, масштабируемость и продуманную архитектуру.
 
 ---
 
-## 🛠 Мой стек технологий
+## 🛠 Технологический стек
 
-### **Фронтенд**
-React • JavaScript
+### **Frontend**
+React • JavaScript • TypeScript
 HTML5 • CSS3 • Webpack • Vite
 
-### **Бэкенд**
-Node.js • Python • PHP • C# • Django • Laravel
+### **Backend**
+Node.js • Python • PHP • C# 
+Django • Laravel • Express
 
 ### **Базы данных**
-PostgreSQL • MySQL • MongoDB •
-SQLite
+PostgreSQL • MySQL • MongoDB • SQLite
 
 ### **Инфраструктура**
 Docker • Kubernetes • Apache • Nginx
@@ -25,28 +24,38 @@ CI/CD • Git • Linux
 
 ---
 
-## 📊 Моя статистика на GitHub
+## 📊 Активность на GitHub
 
-![Furrieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=furrieb&show_icons=true&theme=default)
+<div align="center">
+  
+![Furrieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=furrieb&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furrieb&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furrieb&layout=compact&theme=radical)
+
+</div>
 
 ---
 
-## 📫 Как со мной связаться
+## 📫 Контакты
 
 - **Email:** social@blin-x.space
-- **Telegram:** @furrieb_formalno
-- **Discord:** BlinX Community
-- **Сайт:** https://blin-x.space
+- **Telegram:** [@furrieb_formalno](https://t.me/furrieb_formalno)
+- **Discord:** .furrieb
+- **Website:** [blin-x.space](https://blin-x.space)
 
 ---
 
-### **Основные технологии**
-`React` `JavaScript` `Node.js` `Python` `PHP` `Git`
+## 🎯 Навыки
 
-### **Изучаю/Осваиваю**
-`Vue` `C++` `C#`
+### **Основной стек**
+`React` `JavaScript` `Node.js` `Python` `PHP` `Git` `Docker`
 
-### **Опыт работы с**
-`React` `Python` `PHP` `JavaScript` `MySQL`
+### **Осваиваю**
+`Vue` `C++` `C#` `Kubernetes`
+
+### **Имею опыт с**
+`MySQL` `PostgreSQL` `MongoDB` `Django` `Laravel`
+
+---
+
+*Открыт для интересных проектов и сотрудничества*
