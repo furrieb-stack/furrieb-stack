@@ -1,61 +1,33 @@
-# 👋 Привет, я Furrieb
+# .furrieb
 
-## 💻 Обо мне
-Fullstack-разработчик с 5+ летним опытом. Специализируюсь на создании полноценных веб-приложений с использованием современных технологий. В работе ценю чистый код, масштабируемость и продуманную архитектуру.
+Fullstack Developer с 5-летним опытом.
 
----
+## О профиле
 
-## 🛠 Технологический стек
+Данный GitHub аккаунт в основном представляет мое портфолио и рабочее пространство. Здесь находятся:
 
-### **Frontend**
-React • JavaScript • TypeScript
-HTML5 • CSS3 • Webpack • Vite
+*   Пет-проекты и эксперименты с различными технологиями
+*   Примеры реализации функциональности и архитектурных решений
+*   Исследовательские проекты и proof-of-concept
 
-### **Backend**
-Node.js • Python • PHP • C# 
-Django • Laravel • Express
+## Технологии
 
-### **Базы данных**
-PostgreSQL • MySQL • MongoDB • SQLite
+**Backend:**
+Python (Django, FastAPI), JavaScript/TypeScript (Node.js, Express, NestJS), PHP (Laravel)
+PostgreSQL, MySQL, MongoDB, Redis
 
-### **Инфраструктура**
-Docker • Kubernetes • Apache • Nginx
-CI/CD • Git • Linux
+**Frontend:**
+React, Next.js, Vue.js, TypeScript
+HTML5, CSS3, Tailwind CSS
 
----
+**Инфраструктура:**
+Docker, CI/CD, Nginx, AWS, Linux
 
-## 📊 Активность на GitHub
+## Контакты
 
-<div align="center">
-  
-![Furrieb's GitHub stats](https://github-readme-stats.vercel.app/api?username=furrieb&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furrieb&layout=compact&theme=radical)
-
-</div>
+*   **Telegram:** [@furrieb](https://t.me/ARESTZADOXXING)
+*   **Discord:** .furrieb
 
 ---
 
-## 📫 Контакты
-
-- **Email:** social@blin-x.space
-- **Telegram:** [@furrieb_formalno](https://t.me/furrieb_formalno)
-- **Discord:** .furrieb
-- **Website:** [blin-x.space](https://blin-x.space)
-
----
-
-## 🎯 Навыки
-
-### **Основной стек**
-`React` `JavaScript` `Node.js` `Python` `PHP` `Git` `Docker`
-
-### **Осваиваю**
-`Vue` `C++` `C#` `Kubernetes`
-
-### **Имею опыт с**
-`MySQL` `PostgreSQL` `MongoDB` `Django` `Laravel`
-
----
-
-*Открыт для интересных проектов и сотрудничества*
+*Большинство коммерческих проектов являются приватными и не представлены в этом профиле.*
