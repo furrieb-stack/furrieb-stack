@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=furrieb-stack&color=blueviolet&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/furrieb-stack?style=social)](https://github.com/furrieb-stack)
+  ![Profile Views](https://komarev.com/ghpvc/?username=furrieb&color=blueviolet&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/furrieb?style=social)](https://github.com/furrieb)
   ![Total Stars](https://img.shields.io/badge/Total%20Stars-8.4k-yellow?style=flat-square)
   ![Contributions](https://img.shields.io/badge/Contributions-12.4k-brightgreen?style=flat-square)
   
@@ -68,11 +68,11 @@ const furrieb = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furrieb-stack&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furrieb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furrieb-stack&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furrieb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furrieb-stack&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furrieb&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
 </div>
 
@@ -136,8 +136,8 @@ Mobile Development    ██████████████░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furrieb-stack)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furrieb-stack)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furrieb)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furrieb)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
