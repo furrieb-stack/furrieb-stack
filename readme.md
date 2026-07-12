@@ -67,7 +67,7 @@ Independent developer focusing on core automation systems, backend services, and
 ## ⚡ Production & Contributions
 
 * 💎 **System Automation:** Engineering algorithmic scripts for dynamic user input automation and micro-task acceleration.
-* 👥 **Universe Help:** Co-founding and scales the infrastructure, maintaining high uptime and bot orchestration for community assistance networks.
+* 👥 **Universe Help:** Co-founding and scaling the infrastructure, maintaining high uptime and bot orchestration for community assistance networks.
 * 🔌 **API Integration:** Building resilient endpoints and webhooks interfacing with platform-specific APIs (Discord, Telegram, Webhooks).
 
 ---
